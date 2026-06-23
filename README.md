@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/STARK7882/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/STARK7882/leetcodes/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/STARK7882/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/STARK7882/leetcodes/tree/master/0704-binary-search) |
@@ -22,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/STARK7882/leetcodes/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -35,9 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/STARK7882/leetcodes/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
