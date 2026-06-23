@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/STARK7882/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/STARK7882/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/STARK7882/leetcodes/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/STARK7882/leetcodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/STARK7882/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/STARK7882/leetcodes/tree/master/0392-is-subsequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/STARK7882/leetcodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/STARK7882/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/STARK7882/leetcodes/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
