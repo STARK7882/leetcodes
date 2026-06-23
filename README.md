@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/STARK7882/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/STARK7882/leetcodes/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/STARK7882/leetcodes/tree/master/1672-richest-customer-wealth) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/STARK7882/leetcodes/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -68,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/STARK7882/leetcodes/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
