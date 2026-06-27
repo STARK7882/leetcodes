@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/STARK7882/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/STARK7882/leetcodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/STARK7882/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/STARK7882/leetcodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/STARK7882/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/STARK7882/leetcodes/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/STARK7882/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
