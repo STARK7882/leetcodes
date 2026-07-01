@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/STARK7882/leetcodes/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/STARK7882/leetcodes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/STARK7882/leetcodes/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/STARK7882/leetcodes/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/STARK7882/leetcodes/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/STARK7882/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
 | [1672-richest-customer-wealth](https://github.com/STARK7882/leetcodes/tree/master/1672-richest-customer-wealth) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/STARK7882/leetcodes/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/STARK7882/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/STARK7882/leetcodes/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/STARK7882/leetcodes/tree/master/0500-keyboard-row) |
 | [0821-shortest-distance-to-a-character](https://github.com/STARK7882/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
