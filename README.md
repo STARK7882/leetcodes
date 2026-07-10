@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/STARK7882/leetcodes/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/STARK7882/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/STARK7882/leetcodes/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/STARK7882/leetcodes/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/STARK7882/leetcodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
 ## Binary Search
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/STARK7882/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/STARK7882/leetcodes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
