@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/STARK7882/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/STARK7882/leetcodes/tree/master/0896-monotonic-array) |
 | [1672-richest-customer-wealth](https://github.com/STARK7882/leetcodes/tree/master/1672-richest-customer-wealth) |
+| [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/STARK7882/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/STARK7882/leetcodes/tree/master/0500-keyboard-row) |
+| [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
+| [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 ## Two Pointers
 |  |
 | ------- |
