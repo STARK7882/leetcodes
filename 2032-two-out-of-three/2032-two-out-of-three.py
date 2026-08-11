@@ -1,14 +1,13 @@
 class Solution:
-    def twoOutOfThree(self, n1: List[int], n2: List[int], n3: List[int]) -> List[int]:
+    def twoOutOfThree(self, nums1: List[int], nums2: List[int], nums3: List[int]) -> List[int]:
         s=[]
-        for i in n1:
-            if i in n2 or i in n3:
+        for i in nums1:
+            if i in nums2 or i in nums3:
                 s.append(i)
-        for k in n2:
-            if k in n1 or k in n3 and k not in s:
-                s.append(k)
-        for l in n3:
-            if l in n1 or l in n2 and l not in s:
-                s.append(l)
-        d=set(s)
-        return(list(d))
+        for i in nums2:
+            if i in nums1 or i in nums3:
+                s.append(i)
+        for i in nums3:
+            if i in nums1 or i in nums2:
+                s.append(i)
+        return list(set(s))
