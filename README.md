@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/STARK7882/leetcodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/STARK7882/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/STARK7882/leetcodes/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/STARK7882/leetcodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/STARK7882/leetcodes/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/STARK7882/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/STARK7882/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/STARK7882/leetcodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/STARK7882/leetcodes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/STARK7882/leetcodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/STARK7882/leetcodes/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/STARK7882/leetcodes/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
