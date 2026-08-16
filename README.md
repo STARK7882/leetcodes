@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/STARK7882/leetcodes/tree/master/0500-keyboard-row) |
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/STARK7882/leetcodes/tree/master/0169-majority-element) |
+| [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
 |  |
 | ------- |
