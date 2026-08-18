@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/STARK7882/leetcodes/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/STARK7882/leetcodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/STARK7882/leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/STARK7882/leetcodes/tree/master/0056-merge-intervals) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/STARK7882/leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
