@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/STARK7882/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/STARK7882/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
 ## Matrix
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/STARK7882/leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/STARK7882/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
