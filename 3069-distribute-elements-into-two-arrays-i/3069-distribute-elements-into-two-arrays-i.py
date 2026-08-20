@@ -1,10 +1,10 @@
 class Solution:
     def resultArray(self, nums: List[int]) -> List[int]:
-        a1=[nums[0]]
-        a2=[nums[1]]
+        a=[nums[0]]
+        b=[nums[1]]
         for i in range(2,len(nums)):
-            if a1[-1]>a2[-1]:
-                a1.append(nums[i])
+            if a[-1]>b[-1]:
+                a.append(nums[i])
             else:
-                a2.append(nums[i])
-        return a1+a2
+                b.append(nums[i])
+        return a+b
