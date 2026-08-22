@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/STARK7882/leetcodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/STARK7882/leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/STARK7882/leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/STARK7882/leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
