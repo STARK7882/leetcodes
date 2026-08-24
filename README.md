@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/STARK7882/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/STARK7882/leetcodes/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/STARK7882/leetcodes/tree/master/0455-assign-cookies) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -157,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/STARK7882/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 <!---LeetCode Topics End-->
