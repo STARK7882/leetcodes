@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/STARK7882/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/STARK7882/leetcodes/tree/master/3866-first-unique-even-element) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/STARK7882/leetcodes/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/STARK7882/leetcodes/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
