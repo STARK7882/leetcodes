@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/STARK7882/leetcodes/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/STARK7882/leetcodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
+| [2413-smallest-even-multiple](https://github.com/STARK7882/leetcodes/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/STARK7882/leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/STARK7882/leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/STARK7882/leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/STARK7882/leetcodes/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
