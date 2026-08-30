@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/STARK7882/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/STARK7882/leetcodes/tree/master/0896-monotonic-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/STARK7882/leetcodes/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/STARK7882/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [2032-two-out-of-three](https://github.com/STARK7882/leetcodes/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/STARK7882/leetcodes/tree/master/0500-keyboard-row) |
 | [0821-shortest-distance-to-a-character](https://github.com/STARK7882/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/STARK7882/leetcodes/tree/master/0917-reverse-only-letters) |
+| [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/STARK7882/leetcodes/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/STARK7882/leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/STARK7882/leetcodes/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
