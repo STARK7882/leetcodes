@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/STARK7882/leetcodes/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/STARK7882/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/STARK7882/leetcodes/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/STARK7882/leetcodes/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/STARK7882/leetcodes/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1598-crawler-log-folder](https://github.com/STARK7882/leetcodes/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/STARK7882/leetcodes/tree/master/1672-richest-customer-wealth) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/STARK7882/leetcodes/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/STARK7882/leetcodes/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/STARK7882/leetcodes/tree/master/1051-height-checker) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/STARK7882/leetcodes/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3842-toggle-light-bulbs](https://github.com/STARK7882/leetcodes/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/STARK7882/leetcodes/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/STARK7882/leetcodes/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/STARK7882/leetcodes/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
