@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/STARK7882/leetcodes/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/STARK7882/leetcodes/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/STARK7882/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/STARK7882/leetcodes/tree/master/0392-is-subsequence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/STARK7882/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/STARK7882/leetcodes/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/STARK7882/leetcodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/STARK7882/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/STARK7882/leetcodes/tree/master/0389-find-the-difference) |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/STARK7882/leetcodes/tree/master/1051-height-checker) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/STARK7882/leetcodes/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/STARK7882/leetcodes/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
