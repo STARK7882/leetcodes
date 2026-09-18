@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/STARK7882/leetcodes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/STARK7882/leetcodes/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/STARK7882/leetcodes/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/STARK7882/leetcodes/tree/master/0836-rectangle-overlap) |
 | [2413-smallest-even-multiple](https://github.com/STARK7882/leetcodes/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/STARK7882/leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/STARK7882/leetcodes/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/STARK7882/leetcodes/tree/master/0022-generate-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/STARK7882/leetcodes/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
